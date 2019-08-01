@@ -8,7 +8,6 @@
     <artifactId>br.edu.materdei.testejunit</artifactId>
     <version>1.0</version>
 
-
     <build>
         <plugins>
             <plugin>
